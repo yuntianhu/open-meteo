@@ -256,5 +256,5 @@ if __name__ == "__main__":
         timezone="auto",
     )
     print(summary)
-    summary.to_csv("out_rainy_days_summary.csv", index=False)
-    print("Wrote out_rainy_days_summary.csv")
+    summary.to_csv("out_rainy_days_summary_1.csv", index=False)
+    print("Wrote out_rainy_days_summary_1.csv")
